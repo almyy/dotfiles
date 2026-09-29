@@ -1,0 +1,12 @@
+[user]
+	name = Martin Almvik
+	email = martin.almvik@nav.no
+	signingKey = 21F9DF3891B21E4A
+[push]
+	default = current
+[commit]
+	gpgsign = true
+[rerere]
+	enabled = true
+[init]
+	defaultBranch = main
