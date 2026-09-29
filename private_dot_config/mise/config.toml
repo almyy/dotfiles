@@ -1,0 +1,13 @@
+[tools]
+azure-kubelogin = "latest"
+chezmoi = "latest"
+gradle = "9.6"
+java = "21"
+k9s = "latest"
+kubectx = "latest"
+kubens = "latest"
+node = "24"
+promtool = "latest"
+python = "latest"
+yarn = "latest"
+zoxide = "latest"
